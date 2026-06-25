@@ -11,7 +11,7 @@
 - 🚀 &nbsp;把有用的小工具打磨成开源项目和长期可用的产品。
 - ✍️ &nbsp;代码对我来说，是创造、分享和自我表达的媒介。
 
-[📕 小红书](https://www.xiaohongshu.com/user/profile/5fdf34b50000000001008057) | [🌐 个人网站](https://spikedon.vercel.app/)
+[📕 小红书](https://www.xiaohongshu.com/user/profile/5fdf34b50000000001008057) 
 
 [<img align="right" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yo-WASSUP&theme=buefy&layout=compact"/>](https://github.com/yo-WASSUP)
 

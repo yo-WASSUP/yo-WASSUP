@@ -11,7 +11,7 @@
 - 🚀 &nbsp;Turning small useful tools into open-source projects and durable products.
 - ✍️ &nbsp;Code is my medium for creating, sharing, and self-expression.
 
-[📕 Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fdf34b50000000001008057) | [🌐 Website](https://spikedon.vercel.app/)
+[📕 Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fdf34b50000000001008057) 
 
 [<img align="right" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yo-WASSUP&theme=buefy&layout=compact"/>](https://github.com/yo-WASSUP)
 
